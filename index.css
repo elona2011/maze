@@ -5,3 +5,7 @@ td {
 table {
     border-collapse: collapse;
 }
+
+.obstacle{
+    background-color: gray;
+}
