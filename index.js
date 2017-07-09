@@ -60,10 +60,6 @@ function setStep({
     }
 }
 
-function getAllPositionForStep(target = [0, 0], step) {
-
-}
-
 function isValid(x, y) {
     if (x < 0 || y < 0 || x > width - 1 || y > height - 1) return false
 
